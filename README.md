@@ -1,3 +1,3 @@
-- Hi, I’m @hamonlegos
+- Hi, I’m @danalized
 - I’m currently learning C, C++, Rust
 - How to reach me dann.ru@proton.me
